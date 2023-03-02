@@ -4,8 +4,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ambrg&count_private=true&show_icons=true&hide_title=true&hide=stars&theme=dark" />
 
-- .Net Developer
-- Data science enthusiast
+- :computer: .Net developer
+- :chart_with_upwards_trend: Data science enthusiast
+- :book: Lifetime learner
 - 🤝 Always open for cooperation
 
 <br>
